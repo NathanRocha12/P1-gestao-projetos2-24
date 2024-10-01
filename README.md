@@ -1,6 +1,7 @@
 # P1 da aula de Prática de Gestão de Projetos
 
 Este repositório é um projeto para a prova da matéria Prática de Gestão de Projetos da faculdade, onde os conhecimentos de GitHub foram testados e aplicados neste repositório.
+Para ver o resultado final do repositório hospedado acesse através do link: https://nathanrocha12.github.io/P1-gestao-projetos2-24/
 
 ## Comandos e passo a passo utilizados na criação deste repositório:
 
@@ -23,4 +24,5 @@ Este repositório é um projeto para a prova da matéria Prática de Gestão de 
   - git add .
   - git commit -m "texto commit"
   - git push origin front-end
-- Hospedar o site do repositório no GitHub através do 
+- Hospedar o site do repositório no GitHub através do github.io
+  - Link para acessar o site hospedado no github.io: https://nathanrocha12.github.io/P1-gestao-projetos2-24/
